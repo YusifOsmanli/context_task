@@ -1,0 +1,10 @@
+.detail{
+    display: flex;
+    gap: 100px;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.detail__text{
+    font-size: 20px;
+}
